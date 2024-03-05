@@ -1,0 +1,3 @@
+Hello, this file is for dir.py
+just for testing
+kbtu the best!
